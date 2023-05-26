@@ -1096,12 +1096,7 @@ const JSON_DATA = [
     name_ar: "جسار ",
     parent_id: 40,
   },
-  {
-    id: 195,
-    name_en: "Ta'ban",
-    name_ar: "‏تعبان ",
-    parent_id: 40,
-  },
+  
   {
     id: 196,
     name_en: "Mahmoud",
@@ -1610,7 +1605,7 @@ const JSON_DATA = [
     id: 280,
     name_en: "Amr",
     name_ar: "عمر ",
-    parent_id: 195,
+    parent_id: 40,
   },
   {
     id: 281,
