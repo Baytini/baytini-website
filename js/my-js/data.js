@@ -2173,7 +2173,7 @@ const JSON_DATA = [
   },
   {
     id: 381,
-    name_en: "Nassir",
+    name_en: "Nasser",
     name_ar: "ناصر ",
     parent_id: 377,
   },
@@ -12196,5 +12196,29 @@ const JSON_DATA = [
     name_en: "Jamal",
     name_ar: "جمال",
     parent_id: 2030,
+  },
+  {
+    id: 3000,
+    name_en: "Jamal",
+    name_ar: "جمال",
+    parent_id: 486,
+  },
+  {
+    id: 3001,
+    name_en: "Ahmad",
+    name_ar: "أحمد",
+    parent_id: 69,
+  },
+  {
+    id: 3002,
+    name_en: "Zain",
+    name_ar: "زين ",
+    parent_id: 385,
+  },
+  {
+    id: 3003,
+    name_en: "Hadi",
+    name_ar: "هادي ",
+    parent_id: 386,
   },
 ];
