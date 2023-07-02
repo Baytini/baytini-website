@@ -12215,10 +12215,4 @@ const JSON_DATA = [
     name_ar: "زين ",
     parent_id: 385,
   },
-  {
-    id: 3003,
-    name_en: "Hadi",
-    name_ar: "هادي ",
-    parent_id: 386,
-  },
 ];
