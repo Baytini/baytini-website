@@ -1557,13 +1557,13 @@ const JSON_DATA = [
     id: 272,
     name_en: "Sabri",
     name_ar: "صبري ",
-    parent_id: 265,
+    parent_id: 257,
   },
   {
     id: 273,
     name_en: "Faisal",
     name_ar: "فيصل ",
-    parent_id: 265,
+    parent_id: 257,
   },
   {
     id: 274,
