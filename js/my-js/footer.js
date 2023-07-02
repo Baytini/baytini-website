@@ -20,7 +20,7 @@ const footerContent = ` <div id="footer-top">
         <div class="img-box">
           <img src="pics/phone-icon.png" alt="pesron-icon" />
         </div>
-        <p>+1 309 885 1185</p>
+        <p>+1 305 851 1063</p>
       </div>
       <div class="contact-info-box">
         <div class="img-box">
