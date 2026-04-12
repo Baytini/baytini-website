@@ -8305,8 +8305,8 @@ const JSON_DATA = [
   },
   {
     id: 1417,
-    name_en: "rujdi",
-    name_ar: "رجدي",
+    name_en: "Rushdi",
+    name_ar: "رشدي",
     parent_id: 1405,
   },
   {
@@ -12389,5 +12389,23 @@ const JSON_DATA = [
     name_en: "Amin",
     name_ar: "أمين",
     parent_id: 1425,
+  },
+    {
+    id: 3040,
+    name_en: “Naji”,
+    name_ar: "ناجي",
+    parent_id: 1417,
+  },
+  {
+    id: 3041,
+    name_en: “Akram”,
+    name_ar: "أكرم",
+    parent_id: 1417,
+  },
+  {
+    id: 3042,
+    name_en: “Ahmad”,
+    name_ar: "أحمد",
+    parent_id: 1417,
   },
 ]; 
